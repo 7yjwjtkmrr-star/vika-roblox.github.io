@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Vika Roblox</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #6a11cb, #2575fc);
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      color: white;
+    }
+    h1 {
+      font-size: 50px;
+      margin-bottom: 20px;
+      text-shadow: 2px 2px 5px #000;
+    }
+    p {
+      font-size: 22px;
+      margin-bottom: 30px;
+      text-shadow: 1px 1px 3px #000;
+    }
+    a {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 20px;
+      background-color: #ff4d4d;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      box-shadow: 2px 2px 5px #000;
+      transition: 0.3s;
+    }
+    a:hover {
+      background-color: #ff1a1a;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <h1>Вітаю на сайті Vika Roblox!</h1>
+  <p>Це моя перша стильна сторінка 💖</p>
+  <a href="https://www.roblox.com" target="_blank">Перейти на Roblox</a>
+</body>
+</html>
